@@ -1,0 +1,29 @@
+body {
+    
+    background-color: antiquewhite;
+}
+
+h1 {
+    color:red;
+    font-size:50px;
+    text-align:center
+}
+
+h2 {
+    color:purple;
+    font-size:30px;
+    text-align:center
+}
+
+.f-20 {
+    font-size:20px;
+}
+
+.h3 {
+    color:brown;
+    font-size:25px
+}
+
+.center {
+    text-align:center
+}
